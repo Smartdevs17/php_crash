@@ -1,9 +1,28 @@
-# PHP Crash Course Files
+# PHP Crash Course File
 
-These are the files from my crash course on Youtube. If you want to follow along and use the files, you can clone or download the zip and use the **_starter_files** folder.
+This is a PHP file that I created after completing a crash course on PHP.
 
-If you are using VS Code and prettier and want Prettier to work with .php files, run
+## Description
 
-```
-npm install
-```
+This file contains some basic PHP code that I learned in the crash course. It includes code for:
+
+- Variables
+- Strings
+- Arrays
+- Functions
+- Loops
+- Conditions
+
+## How to Use
+
+To use this file, simply open it in a PHP interpreter or web browser. You can also run it from the command line by using the `php` command.
+
+## Author
+
+This file was created by Smart Developer.
+
+## License
+
+This file is licensed under the MIT License.
+
+I hope this helps!
